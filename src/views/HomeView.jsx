@@ -37,7 +37,7 @@ const MainContent = () => (
       </p>
       <RecommendedScroll />
     </div>
-    <div className="mt-12 p-8">
+    <div className="mt-2 p-8">
       <p className="opacity-80 font-bold flex items-center gap-4 mb-6">
         Upcoming Shows <FaArrowRightLong />
       </p>
